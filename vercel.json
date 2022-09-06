@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "netease-cloud-music-api-phi-tawny-36.vercel.app/:match*"
+    }
+  ]
+}
