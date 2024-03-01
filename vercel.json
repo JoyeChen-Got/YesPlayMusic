@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-phi-tawny-36.vercel.app/:match*"
+      "destination": "https://musicapi.yanjun.eu.org/:match*"
     }
   ]
 }
